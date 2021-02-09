@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Live Football Tips</string>
+    <string name="action_settings">Settings</string>
+    <string name = "black"> black</string>
+    <string name = "Titulo"> <u>Live In-Play football Tips</u></string>
+    <string name = "semjogos"> <u>No live football matches</u></string>
+    
+
+</resources>
