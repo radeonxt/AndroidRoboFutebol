@@ -11,8 +11,8 @@ import org.ksoap2.transport.HttpTransportSE;
 import android.database.SQLException;
 
 public class PartidasDAO { 
-	private static final String URL = "http://192.168.0.106:8080/WebServiceRoboFutebol/services/PartidasDAO?wsdl";
-	private static final String Namespace = "http://RoboFutebol.com.br";
+	private static final String URL = "http://ec2-18-231-189-209.sa-east-1.compute.amazonaws.com:8080/WebServiceProject/services/PartidasDAO?wsdl";
+	private static final String Namespace = "http://WebServiceProject.com.br";
 	private static final String LISTAR = "listar";
 	
 	public ArrayList<String> listar() throws SQLException {
